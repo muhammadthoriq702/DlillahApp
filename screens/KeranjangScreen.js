@@ -4,7 +4,7 @@ import React from 'react'
 function KeranjangScreen() {
     return (
       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-        <Text>Keranjang!!</Text>
+        <Text>Keranjang Dlillah!!</Text>
       </View>
     );
   }
