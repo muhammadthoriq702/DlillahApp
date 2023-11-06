@@ -4,7 +4,7 @@ import { Button, View, Text } from 'react-native';
 function ProfilScreen({ navigation }) {
     return (
       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-        <Text>Profil screen</Text>
+        <Text>Profil screen!!</Text>
         <Button
           title="Go to Details"
           onPress={() => navigation.navigate('Details')}
