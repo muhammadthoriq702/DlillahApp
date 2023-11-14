@@ -1,12 +1,11 @@
-import { ScrollView, Text, View } from 'react-native'
+import { Button, Text, View } from 'react-native'
 import React from 'react'
-import KeranjangCard from '../components/KeranjangCard'
-
+import Login from '../components/Login'
 
 function KeranjangScreen() {
     return (
       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-        <Text>Keranjang Dlillah!!</Text>
+        <Text>Login Akun</Text>
       </View>
     );
   }
