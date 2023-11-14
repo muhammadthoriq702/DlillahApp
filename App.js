@@ -4,7 +4,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import ProfilScreen from "./screens/ProfilScreen";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import KeranjangScreen from "./screens/Keranjangscreen";
+import KeranjangScreen from "./screens/KeranjangScreen";
 
 const Tab = createBottomTabNavigator();
 
