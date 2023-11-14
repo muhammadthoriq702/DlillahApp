@@ -62,3 +62,48 @@ export const MenuList = [
         image: require('./assets/Brownies.jpg'),
     },
 ];
+
+export const KeranjangList = [
+    {
+        id: "01",
+        name: "Bika Ambon",
+        price: "Rp.100.000",
+        image: require('./assets/bikaambon.jpg'),
+    },
+    {
+        id: "02",
+        name: "Brownies Kukus",
+        price: "Rp.150.000",
+        image: require('./assets/Brownies.jpg'),
+    },
+    {
+        id: "03",
+        name: "Brownies Kukus",
+        price: "Rp.150.000",
+        image: require('./assets/Brownies.jpg'),
+    },
+    {
+        id: "04",
+        name: "Bika Ambon",
+        price: "Rp.100.000",
+        image: require('./assets/bikaambon.jpg'),
+    },
+    {
+        id: "05",
+        name: "Brownies Kukus",
+        price: "Rp.150.000",
+        image: require('./assets/bikaambon.jpg'),
+    },
+    {
+        id: "06",
+        name: "Bika Ambon",
+        price: "Rp.100.000",
+        image: require('./assets/Brownies.jpg'),
+    },
+    {
+        id: "02",
+        name: "Bika Bika",
+        price: "Rp.100.000",
+        image: require('./assets/bikaambon.jpg'),
+    },
+];
